@@ -1,0 +1,6 @@
+{
+  "name": "Ha Noi Monograph & Culinary Heritage",
+  "description": "Chuyên khảo văn hóa và di sản ẩm thực Hà Nội qua lịch sử phở truyền thống, trích đoạn tác phẩm, bản đồ tọa độ di sản và ấn bản bìa cứng giới hạn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
